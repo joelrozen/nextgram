@@ -9,13 +9,14 @@
   "dependencies": {
     "@headlessui/react": "^1.7.15",
     "clsx": "^1.2.1",
-    "next": "13.4.7",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "next": "14.0.0",
+    "react": "^18",
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "20.3.1",
-    "@types/react": "^18.2.14",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.24",
     "sass": "^1.63.6",
